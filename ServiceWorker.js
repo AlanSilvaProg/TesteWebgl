@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-My project teste-1.0";
 const contentToCache = [
     "Build/showebteste.loader.js",
-    "Build/showebteste.framework.js.br",
-    "Build/showebteste.data.br",
-    "Build/showebteste.wasm.br",
+    "Build/showebteste.framework.js",
+    "Build/showebteste.data",
+    "Build/showebteste.wasm",
     "TemplateData/style.css"
 
 ];
