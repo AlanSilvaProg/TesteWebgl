@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-MemoryObserver-1.0";
 const contentToCache = [
-    "Build/build.loader.js",
-    "Build/build.framework.js",
-    "Build/build.data",
-    "Build/build.wasm",
+    "Build/Build.loader.js",
+    "Build/Build.framework.js",
+    "Build/Build.data",
+    "Build/Build.wasm",
     "TemplateData/style.css"
 
 ];
