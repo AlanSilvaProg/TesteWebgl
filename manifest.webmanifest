@@ -1,6 +1,6 @@
 {
-    "name": "My project teste",
-    "short_name": "My project teste",
+    "name": "MemoryObserver",
+    "short_name": "MemoryObserver",
     "start_url": "index.html",
     "display": "fullscreen",
     "background_color": "#231F20",

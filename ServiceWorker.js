@@ -1,9 +1,9 @@
-const cacheName = "DefaultCompany-My project teste-1.0";
+const cacheName = "DefaultCompany-MemoryObserver-1.0";
 const contentToCache = [
-    "Build/showebteste.loader.js",
-    "Build/showebteste.framework.js",
-    "Build/showebteste.data",
-    "Build/showebteste.wasm",
+    "Build/build.loader.js",
+    "Build/build.framework.js",
+    "Build/build.data",
+    "Build/build.wasm",
     "TemplateData/style.css"
 
 ];
